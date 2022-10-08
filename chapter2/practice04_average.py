@@ -1,0 +1,8 @@
+#Write a Python program to dind average of two number enterd by the user
+
+a=input("enter first number:-")
+b=input("enter second number:-")
+a=int(a)
+b=int(b)
+avg=(a+b)/2
+print("the average value is :-",avg)
